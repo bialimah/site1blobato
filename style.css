@@ -20,5 +20,6 @@
     padding: 160px;
     }
     .boton{
-        position: fixed;
+        position: fixed; 
+        top: 20px;
     }
