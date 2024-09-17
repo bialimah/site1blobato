@@ -16,6 +16,9 @@
     }
     
     .footer{
-    background-color: rgba(8, 182, 235, 0.788);
+    background-color: rgba(23, 144, 180, 0.788);
     padding: 160px;
+    }
+    .boton{
+        position: fixed;
     }
