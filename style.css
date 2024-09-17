@@ -32,7 +32,6 @@
 
     }
 
-    .boton:hover
-
-
+    .boton:hover{
+       background: linear-gradient(to right, #7bdadd, #489ce0, #36b8d8);
     }
